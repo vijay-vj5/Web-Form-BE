@@ -1,7 +1,7 @@
 
-# CRUD Module Backend
+# Web Form Backend
 
-This is a CRUD (Create, Read, Update, Delete) module for capturing basic user data using a form, storing it in a MongoDB database after validation, and exposing API endpoints for clients to interact with the data. Used Node framework Express for server side and MongoDB for database.
+This is a Web Form that performs CRUD (Create, Read, Update, Delete) module for capturing basic user data using a form, storing it in a MongoDB database after validation, and exposing API endpoints for clients to interact with the data. Used Node framework Express for server side and MongoDB for database.
 
 ## Table of Contents
 
